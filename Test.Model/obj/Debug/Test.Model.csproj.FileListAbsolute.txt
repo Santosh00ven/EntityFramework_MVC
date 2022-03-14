@@ -1,0 +1,5 @@
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\Test.Model\bin\Debug\Test.Model.dll
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\Test.Model\bin\Debug\Test.Model.pdb
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\Test.Model\obj\Debug\Test.Model.csproj.CoreCompileInputs.cache
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\Test.Model\obj\Debug\Test.Model.dll
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\Test.Model\obj\Debug\Test.Model.pdb

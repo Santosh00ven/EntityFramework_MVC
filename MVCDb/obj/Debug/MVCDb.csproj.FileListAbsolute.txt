@@ -1,0 +1,33 @@
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\bin\Debug\MVCDb.dll.config
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\bin\Debug\MVCDb.dll
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\bin\Debug\MVCDb.pdb
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\bin\Debug\Entity.dll
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\bin\Debug\EntityFramework.dll
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\bin\Debug\Entity.pdb
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\bin\Debug\EntityFramework.xml
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\obj\Debug\MVCDb.csproj.AssemblyReference.cache
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\obj\Debug\MVCDb.csproj.CoreCompileInputs.cache
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\obj\Debug\MVCDb.csproj.CopyComplete
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\obj\Debug\MVCDb.dll
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\obj\Debug\MVCDb.pdb
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\obj\Debug\MVCDb.Migrations.FirstDbMigration.resources
+C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\MVCDb\obj\Debug\MVCDb.csproj.GenerateResource.cache
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\bin\Debug\MVCDb.dll.config
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\bin\Debug\MVCDb.dll
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\bin\Debug\MVCDb.pdb
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\bin\Debug\EntityFramework.dll
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\bin\Debug\Test.Model.dll
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\bin\Debug\Test.Model.pdb
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\bin\Debug\EntityFramework.xml
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\obj\Debug\MVCDb.csproj.AssemblyReference.cache
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\obj\Debug\MVCDb.Migrations.FirstDbMigration.resources
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\obj\Debug\MVCDb.csproj.GenerateResource.cache
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\obj\Debug\MVCDb.csproj.CoreCompileInputs.cache
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\obj\Debug\MVCDb.csproj.CopyComplete
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\obj\Debug\MVCDb.dll
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\obj\Debug\MVCDb.pdb
+C:\Users\97798\OneDrive\Desktop\EF in MVC\WebApplication\MVCDb\obj\Debug\MVCDb.Migrations.changesDatetimetodate.resources
