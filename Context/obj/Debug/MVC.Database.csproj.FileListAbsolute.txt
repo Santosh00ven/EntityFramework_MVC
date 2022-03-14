@@ -1,2 +1,0 @@
-C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\Context\obj\Debug\MVC.Database.csproj.CoreCompileInputs.cache
-C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\Context\obj\Debug\MVC.Database.csproj.AssemblyReference.cache

@@ -1,5 +1,0 @@
-C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\Entity\bin\Debug\Entity.dll
-C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\Entity\bin\Debug\Entity.pdb
-C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
-C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\Entity\obj\Debug\Entity.dll
-C:\Users\97798\OneDrive\Desktop\WebApplication\WebApplication\Entity\obj\Debug\Entity.pdb
